@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polic_Station", "Polic_Station\Polic_Station.csproj", "{A0ACD8BD-2A6A-414D-BF4A-96BB9729F3CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0ACD8BD-2A6A-414D-BF4A-96BB9729F3CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0ACD8BD-2A6A-414D-BF4A-96BB9729F3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0ACD8BD-2A6A-414D-BF4A-96BB9729F3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0ACD8BD-2A6A-414D-BF4A-96BB9729F3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
